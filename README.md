@@ -6,9 +6,8 @@
 
 ## Assets Utilizados
 
-- *[Modern Interiors]([URL_DO_ASSET](https://limezu.itch.io/moderninteriors?download#google_vignette))* Free
+- *[Modern Interiors](https://limezu.itch.io/moderninteriors?download#google_vignette)* Free
 
-- 
 
 ## Autores do Projeto
 
@@ -22,10 +21,13 @@ Integrantes:
 ## Audio
 
 A musica foi composta pelos alunos. Para ovuila acesse o soudcloud:
-[pcliquet]([pcliquet](https://soundcloud.com/pcliquet/hackers_free-trilha))
+
+[pcliquet](https://soundcloud.com/pcliquet/hackers_free-trilha)
 
 Botão:
+
 [click](https://pixabay.com/pt/sound-effects/click-effect-86995/)
 
 Sirene:
+
 Pedro Cliquet
